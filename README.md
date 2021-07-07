@@ -1,6 +1,8 @@
 # dbpp
 dbpp is a library that simplifies database queries by collecting them into one class.
 
+# **WARNING! Repository migrated to https://github.com/PPEco/dbpp**
+
 ## Installation
 dbpp requires composer and php 8.0 or higher.
 
